@@ -2,6 +2,7 @@
 using System.Diagnostics;
 using System.IO;
 
+
 public class Logger
 {
     static Object logLock = new Object();
